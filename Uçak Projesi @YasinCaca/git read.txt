@@ -1,0 +1,14 @@
+python kodlama dili kullanarak oluşturduğum, içinde yapay zeka ajanının pekiştirmeli öğrenme algoritmasını kullanan bir proje.
+kısaca şöyle özetliyim, bir uçak simülasyonu yapıp fizik kurallarını ve kaybetme koşullarını kodladım
+sonrasında içine bu ortamı deneyimleyecek bir AI ajanı kodladım, bu eleman deneme yanılma yöntemiyle ders çıkarıp en çok puan içeren denemesinin üzerine katarak başarılı bir uçuş sergilemeye çalışacak. 
+içinde aynı zamanda imitation learning algoritması da var yani siz oynayarak yapay zekaya öğretebiliyorsunuz. uygulama sizin yaptıklarınızdan ders çıkarıyor.
+ana menüde 3 farklı mod var; manuel, AI öğrenmesi, AI'ya öğret
+
+
+1. seçenekte öğrenme yok takılmaca var
+2. seçenekte deneme yanılmayla öğrenme var
+3. seçenekte taklitle öğrenme var
+
+en basit olarak böyle özetleyebilirim ^-^
+
+pythonApplication2/dist klasörü içinde exe uzantılı dosyayı çalıştırarak yada visual studioda projeyi çalıştıraraktan deneyimleyebilirsiniz.
